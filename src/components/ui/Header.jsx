@@ -159,7 +159,7 @@ const Header = ({ onSidebarToggle, isSidebarCollapsed = false }) => {
             {isProfileOpen && (
               <div className="absolute right-0 top-12 w-56 bg-popover border border-border rounded-lg shadow-elevation-2 z-1050 animate-slide-in">
                 <div className="p-3 border-b border-border">
-                  <p className="text-sm font-medium text-foreground">John Doe</p>
+                  <p className="text-sm font-medium text-foreground">Amit Pandey</p>
                   <p className="text-xs text-muted-foreground">john.doe@company.com</p>
                 </div>
                 <div className="py-2">
